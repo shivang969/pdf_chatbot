@@ -16,7 +16,7 @@ from retrieval_graph import app_graph
 
 
 
-from app.database import get_db
+from database import get_db
 
 # FIXED: Added 'title=' keyword
 app = FastAPI(title="AI PDF Chatbot API")
