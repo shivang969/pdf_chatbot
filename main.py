@@ -12,7 +12,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import HumanMessage
-from app.retrieval_graph import app_graph
+from retrieval_graph import app_graph
 
 
 
