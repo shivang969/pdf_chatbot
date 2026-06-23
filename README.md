@@ -28,5 +28,5 @@ An intelligent, agent-based Retrieval-Augmented Generation (RAG) system that all
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/pdf-chatbot.git](https://github.com/YOUR_USERNAME/pdf-chatbot.git)
+git clone [https://github.com/YOUR_USERNAME/pdf-chatbot.git](https://github.com/shivang969/pdf_chatbot.git)
 cd pdf-chatbot
