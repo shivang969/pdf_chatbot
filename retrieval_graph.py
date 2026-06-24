@@ -10,7 +10,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import SupabaseVectorStore
 from langchain_core.tools import tool  # <-- Manual tool decorator
 
-from app.database import get_db
+from database import get_db
 
 # ==========================================
 # 1. GRAPH STATE (Memory)
